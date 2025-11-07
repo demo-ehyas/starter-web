@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How to contribute
+
+2014 Git.Training.
