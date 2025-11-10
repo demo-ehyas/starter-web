@@ -17,3 +17,5 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 2014 Git.Training.
+
+updating the readme
