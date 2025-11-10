@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Mrym E someonekdsjflsd@gmail.com @awsome.git
 
 # THANKS
 
