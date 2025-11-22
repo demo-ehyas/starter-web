@@ -21,3 +21,5 @@ Sample website with plenty of files for demos
 2014 Git.Training.
 
 updating the readme
+
+all rights reserved
