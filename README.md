@@ -9,6 +9,7 @@ Adding another line for rebasing example, then more changes
 from myfeature branch too.
 
 ## Introduction
+emergency fix
 
 ## Purpose
 
